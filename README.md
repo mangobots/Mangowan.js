@@ -1,2 +1,2 @@
 # Mangowan.js
-a .js bot
+a javascript bot, discord.js bot.
